@@ -1,7 +1,7 @@
 # AI-Powered Customer Retention & Churn Analytics
 
 **Internship Program:** AICTE | IBM SkillsBuild Data Analytics with AI Academic Internship 2026  
-**Author:** Anitha Devi Donga  
+**Author:** DONGA ANITHA DEVI  
 **Facilitator:** BharatCares & AICTE  
 
 ---
